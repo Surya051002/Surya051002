@@ -8,6 +8,6 @@ I’m an enthusiastic software engineer who recently started my professional jou
 - 💼 **Department**: IT/Data Strategy
 - 📧 **Reach me**: suryaprakashmbr@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/suryaprakash-b-71421522a/
-- 🤝 **Collaboration**: I’m eager to collaborate and learn with others in projects related to software development, testing, and technology innovation!
+- 🤝 **Collaboration**: I’m eager to collaborate and learn with others in projects related to software development and technology innovation!
 
 💻 Passionate about improving processes and contributing to innovative projects in tech!
