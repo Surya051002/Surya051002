@@ -11,7 +11,7 @@ I'm a software engineer transitioning into **AI/Generative AI engineering**, pas
 * 🚀 **Projects:** Building AI agents and developer-focused AI systems that can understand requirements, work with existing codebases, generate changes, test applications, and automate development workflows
 * 🎓 **Education:** B.Tech in Information Technology — VSB Engineering College, Karur
 * 📍 **Based in:** India
-* 📧 **Reach me:** [suryaprakashmbr@gmail.com](mailto:suryaprakashrbm@gmail.com)
+* 📧 **Reach me:** [suryaprakashrbm@gmail.com](mailto:suryaprakashrbm@gmail.com)
 * 🔗 **LinkedIn:** [Suryaprakash B](https://www.linkedin.com/in/suryaprakash-b-71421522a/)
 
 ### 🚀 What I'm Building
